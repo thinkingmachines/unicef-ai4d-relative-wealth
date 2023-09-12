@@ -219,7 +219,7 @@ geopandas==0.10.2
     #   geowrangler
 geopy==2.3.0
     # via contextily
-geowrangler
+geowrangler==0.1.1
     # via -r requirements.in
 gitdb==4.0.10
     # via gitpython

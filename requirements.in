@@ -15,8 +15,7 @@ folium
 # gdal
 gdown
 geopandas
-# geowrangler
-git+https://github.com/thinkingmachines/geowrangler.git
+geowrangler
 # use latest version not yet on pypi
 haversine
 hdx-python-api
